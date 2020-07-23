@@ -21,7 +21,8 @@ setup(
     install_requires=[
         "scipy",
         "numpy",
-        "gym"
+        "gym",
+        "PyPokerEngine"
     ],
     extras_require={
         'dev': [],
