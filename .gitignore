@@ -2,9 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.idea
 
 # C extensions
 *.so
+
+# Scratch space
+scratch/
 
 # Distribution / packaging
 .Python
@@ -127,3 +131,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/

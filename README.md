@@ -1,2 +1,2 @@
-# rl_transformer
-OpenAI Gym environments and transformer-based policies experimentations
+# RL Transformer
+Experiments with transformer-based policies and multi-agent self-play
